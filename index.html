@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Typing Speed Test</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="theme-toggle">
+    <label class="switch">
+      <input type="checkbox" id="themeToggle">
+      <span class="slider round"></span>
+    </label>
+  </div>
+
+  <div class="container">
+    <h1>Typing Speed Test</h1>
+    <div class="difficulty">
+      <label>Difficulty:
+        <select id="difficulty">
+          <option value="short">Short</option>
+          <option value="medium" selected>Medium</option>
+          <option value="long">Long</option>
+        </select>
+      </label>
+    </div>
+    <div id="countdown">3</div>
+    <p id="quote"></p>
+    <textarea id="input" placeholder="Start typing here..." disabled></textarea>
+    <div class="stats">
+      <p><strong>Time:</strong> <span id="time">0</span>s</p>
+      <p><strong>WPM:</strong> <span id="wpm">0</span></p>
+      <p><strong>Accuracy:</strong> <span id="accuracy">100</span>%</p>
+    </div>
+    <button id="startBtn">Start Test</button>
+    <div id="result" class="hidden">
+      <h2>Result</h2>
+      <p><strong>Final WPM:</strong> <span id="finalWpm"></span></p>
+      <p><strong>Final Accuracy:</strong> <span id="finalAccuracy"></span>%</p>
+      <p><strong>High Score:</strong> <span id="highScore"></span> WPM</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
