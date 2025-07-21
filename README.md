@@ -14,7 +14,8 @@ A lightweight and interactive **Typing Speed Test** web application built using 
 
 ## 📸 Preview
 
-![Typing Speed Test App Screenshot](https://user-images.githubusercontent.com/your-image-link.png)
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/5d7f63a6-f890-4169-b3e2-ab45daa32645" />
+
 
 ---
 
@@ -41,16 +42,7 @@ A lightweight and interactive **Typing Speed Test** web application built using 
 
 ---
 
-## 📂 Project Structure
-
-typing-speed-test/
-├── index.html # Main HTML structure
-├── style.css # Styling (Dark & Light themes)
-└── script.js # Functionality and logic
-
----
-
-## ⚙️ How It Works
+##  How It Works
 
 - When the user clicks **Start Test**, a 3-second countdown begins
 - A quote appears based on the selected difficulty
@@ -65,7 +57,7 @@ typing-speed-test/
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This app is deployed using **GitHub Pages**:
 
@@ -76,7 +68,7 @@ This app is deployed using **GitHub Pages**:
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 This project was created to strengthen:
 - DOM manipulation using plain JavaScript
@@ -86,27 +78,23 @@ This project was created to strengthen:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
-- 🔊 Sound effects on typing and completion
-- ⌛ Timed mode (e.g., 60-second typing test)
-- 🌐 Quote API integration for dynamic content
-- 📱 PWA support (Progressive Web App)
+-  Sound effects on typing and completion
+-  Timed mode (e.g., 60-second typing test)
+- Quote API integration for dynamic content
+- PWA support (Progressive Web App)
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Contributions, suggestions, and pull requests are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-## 💬 Feedback
+##  Feedback
 
-If you liked the project, feel free to ⭐ star the repo and share feedback!
+If you liked the project, feel free to star the repo and share feedback!
