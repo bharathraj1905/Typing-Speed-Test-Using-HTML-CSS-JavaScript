@@ -93,8 +93,6 @@ Contributions, suggestions, and pull requests are welcome!
 
 ---
 
----
-
 ##  Feedback
 
 If you liked the project, feel free to star the repo and share feedback!
