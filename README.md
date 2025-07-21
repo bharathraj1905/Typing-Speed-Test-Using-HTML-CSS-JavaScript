@@ -48,7 +48,6 @@ typing-speed-test/
 ├── style.css # Styling (Dark & Light themes)
 └── script.js # Functionality and logic
 
-
 ---
 
 ## ⚙️ How It Works
